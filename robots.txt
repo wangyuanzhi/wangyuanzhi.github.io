@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://wangyuanzhi.hotinno.com/sitemap.xml 

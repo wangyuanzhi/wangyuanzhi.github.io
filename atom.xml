@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Wang Yuanzhi's Blog]]></title>
+  <link href="http://wangyuanzhi.hotinno.com/atom.xml" rel="self"/>
+  <link href="http://wangyuanzhi.hotinno.com/"/>
+  <updated>2013-07-14T11:39:59+08:00</updated>
+  <id>http://wangyuanzhi.hotinno.com/</id>
+  <author>
+    <name><![CDATA[Wang Yuanzhi]]></name>
+    <email><![CDATA[wangyuanzhi@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
