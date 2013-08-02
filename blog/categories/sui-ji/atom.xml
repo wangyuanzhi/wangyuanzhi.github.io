@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: 随记 | Wang Yuanzhi's Blog]]></title>
+  <link href="http://wangyuanzhi.hotinno.com/blog/categories/sui-ji/atom.xml" rel="self"/>
+  <link href="http://wangyuanzhi.hotinno.com/"/>
+  <updated>2013-08-02T22:42:25+08:00</updated>
+  <id>http://wangyuanzhi.hotinno.com/</id>
+  <author>
+    <name><![CDATA[Wang Yuanzhi]]></name>
+    <email><![CDATA[wangyuanzhi@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[驾照]]></title>
+    <link href="http://wangyuanzhi.hotinno.com/blog/2008/04/23/drive-license/"/>
+    <updated>2008-04-23T11:56:00+08:00</updated>
+    <id>http://wangyuanzhi.hotinno.com/blog/2008/04/23/drive-license</id>
+    <content type="html"><![CDATA[<div>8周，10余次往返万国，终于在今天拿到驾照了<img title="大笑" style="vertical-align:middle" alt="大笑" src="http://shared.live.com/HjKMzTS-xzcms40!CabizA/emoticons/smile_teeth.gif" /></div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[利润]]></title>
+    <link href="http://wangyuanzhi.hotinno.com/blog/2005/10/28/profit/"/>
+    <updated>2005-10-28T17:47:00+08:00</updated>
+    <id>http://wangyuanzhi.hotinno.com/blog/2005/10/28/profit</id>
+    <content type="html"><![CDATA[<div>什么样的利润都比不上政府垄断的利润丰厚。海外的投资者是向着钱来的，不是向着大陆老百姓利益来的
+<p></p>
+<p> --《动迁矛盾是不平等交易产生的结果》·北京大军经济观察研究中心研究员·王炼利</p></div>
+
+]]></content>
+  </entry>
+  
+</feed>
