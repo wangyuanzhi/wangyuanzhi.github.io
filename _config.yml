@@ -70,7 +70,7 @@ github_skip_forks: true
 
 # Twitter
 twitter_user: wangyuanzhi
-twitter_tweet_button: true
+twitter_tweet_button: false
 
 # Google +1
 google_plus_one: true
@@ -97,7 +97,7 @@ disqus_show_comment_count: true
 google_analytics_tracking_id: UA-42435456-1
 
 # Facebook Like
-facebook_like: true
+facebook_like: false
 
 # JiaThis
 jiathis: true

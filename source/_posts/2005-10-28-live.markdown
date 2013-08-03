@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: 活着
+author: Wang Yuanzhi
+author_login: Wang Yuanzhi
+author_email: wangyuanzhi@gmail.com
+date: 2005-10-28 17:44:00.000000000 +08:00
+categories:
+- 随想
+tags: []
+comments: []
+---
+所谓现在活着 
+<p></p>
+<p> 是敢哭 </p>
+<p> 是敢笑 </p>
+<p> 是敢怒 </p>
+<p> 是自由</p>

@@ -1,0 +1,17 @@
+---
+layout: post
+status: publish
+published: true
+title: 利润
+author: Wang Yuanzhi
+author_login: Wang Yuanzhi
+author_email: wangyuanzhi@gmail.com
+date: 2005-10-28 17:47:00.000000000 +08:00
+categories:
+- 随记
+tags: []
+comments: []
+---
+<div>什么样的利润都比不上政府垄断的利润丰厚。海外的投资者是向着钱来的，不是向着大陆老百姓利益来的
+<p></p>
+<p> --《动迁矛盾是不平等交易产生的结果》·北京大军经济观察研究中心研究员·王炼利</p></div>

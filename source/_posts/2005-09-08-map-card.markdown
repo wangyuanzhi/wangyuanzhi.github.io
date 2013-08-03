@@ -1,0 +1,45 @@
+---
+layout: post
+status: publish
+published: true
+title: 地图名片
+author: Wang Yuanzhi
+author_login: Wang Yuanzhi
+author_email: gamenow+bob@gmail.com
+wordpress_id: 9989
+wordpress_url: http://blog.hotinno.info/%e5%9c%b0%e5%9b%be%e5%90%8d%e7%89%87.html
+date: 2005-09-08 17:51:00.000000000 +08:00
+categories:
+- 个人
+tags: []
+comments:
+- id: 10
+  author: udyi ma
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wMy0yMiAxNzo1MTowMCArMDgwMA==
+  date_gmt: ''
+  content: ! '<div>能不能把别的你的博呀，坛呀告诉告诉？最近发现google越来越完备了，几乎能想到的服务都提供了。爽啊。</div>
+
+    <div>Ms加油啊。</div>'
+- id: 11
+  author: udyi ma
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wNi0yMyAxNzo1MTowMCArMDgwMA==
+  date_gmt: ''
+  content: ! '<div>真给面子，还到我那里捧了一下场。感激不尽啊。</div>
+
+    <div>近期我准备发布一部长篇小说，敬请期待。</div>
+
+    <div>也希望能读到你的作品。</div>'
+---
+<div>没想到mapabc还有个“地图名片”的服务，试了试，有点意思。</div>
+<div> </div>
+<div>方便别人找到我了，呵呵</div>
+<div> </div>
+<div>那位试试？</div>
+<div> </div>
+<div><a href="http://www.mapabc.com/card.jsp?pp=502154518">http://www.mapabc.com/card.jsp?pp=502154518</a></div>
