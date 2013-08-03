@@ -10,7 +10,7 @@ date: 2005-10-28 17:44:00.000000000 +08:00
 categories:
 - 随想
 tags: []
-comments: []
+comments: true
 ---
 所谓现在活着 
 <p></p>

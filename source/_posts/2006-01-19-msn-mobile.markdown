@@ -10,7 +10,8 @@ date: 2006-01-19 19:12:00.000000000 +08:00
 categories:
 - 个人
 tags: []
-comments:
+comments: true
+old_comments:
 - id: 7
   author: lijuan
   author_email: ''

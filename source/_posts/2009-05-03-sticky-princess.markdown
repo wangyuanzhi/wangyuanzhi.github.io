@@ -12,7 +12,8 @@ date: 2009-05-03 22:32:00.000000000 +08:00
 categories:
 - 个人
 tags: []
-comments:
+comments: true
+old_comments:
 - id: 2
   author: 王 远志
   author_email: ''

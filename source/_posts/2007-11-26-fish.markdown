@@ -10,7 +10,8 @@ date: 2007-11-26 11:11:00.000000000 +08:00
 categories:
 - 兴趣
 tags: []
-comments:
+comments: true
+old_comments:
 - id: 4
   author: lijuan
   author_email: ''

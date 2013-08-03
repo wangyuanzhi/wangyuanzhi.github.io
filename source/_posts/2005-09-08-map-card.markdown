@@ -12,7 +12,8 @@ date: 2005-09-08 17:51:00.000000000 +08:00
 categories:
 - 个人
 tags: []
-comments:
+comments: true
+old_comments:
 - id: 10
   author: udyi ma
   author_email: ''

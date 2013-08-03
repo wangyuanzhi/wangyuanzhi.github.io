@@ -12,6 +12,6 @@ date: 2008-04-23 11:56:00.000000000 +08:00
 categories:
 - 随记
 tags: []
-comments: []
+comments: true
 ---
 <div>8周，10余次往返万国，终于在今天拿到驾照了<img title="大笑" style="vertical-align:middle" alt="大笑" src="http://shared.live.com/HjKMzTS-xzcms40!CabizA/emoticons/smile_teeth.gif" /></div>
